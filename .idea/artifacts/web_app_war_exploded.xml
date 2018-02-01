@@ -7,7 +7,6 @@
           <element id="module-output" name="web-app" />
         </element>
         <element id="directory" name="lib">
-          <element id="library" level="project" name="Maven: org.apache.tomcat:tomcat-servlet-api:8.5.4" />
           <element id="archive" name="web-service-1.0-SNAPSHOT.jar">
             <element id="module-output" name="web-service" />
           </element>
