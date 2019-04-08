@@ -2,11 +2,11 @@
     <parent>
         <artifactId>multi-module-project</artifactId>
         <groupId>com.sndj</groupId>
-        <version>0.1.3</version>
+        <version>0.1.4-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
     <artifactId>web-app</artifactId>
-    <version>0.1.3</version>
+    <version>0.1.4-SNAPSHOT</version>
     <packaging>war</packaging>
     <name>web-app Maven Webapp</name>
     <url>http://maven.apache.org</url>
@@ -28,7 +28,7 @@
         <dependency>
             <groupId>com.sndj</groupId>
             <artifactId>web-service</artifactId>
-            <version>0.1.3</version>
+            <version>0.1.4-SNAPSHOT</version>
         </dependency>
     </dependencies>
 
