@@ -11,9 +11,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="multi-module-project" target="1.8" />
-      <module name="web-app" target="1.8" />
-      <module name="web-service" target="1.8" />
+      <module name="multi-module-project" target="1.5" />
+      <module name="web-app" target="1.5" />
+      <module name="web-service" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
