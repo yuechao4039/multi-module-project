@@ -5,7 +5,7 @@
     <groupId>com.sndj</groupId>
     <artifactId>multi-module-project</artifactId>
     <packaging>pom</packaging>
-    <version>0.1.4</version>
+    <version>0.1.5-SNAPSHOT</version>
     <modules>
         <module>web-service</module>
         <module>web-app</module>
